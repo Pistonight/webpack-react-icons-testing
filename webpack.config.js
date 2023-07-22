@@ -13,8 +13,8 @@ module.exports = async () => {
                 {
                     test: /\.tsx?$/,
                     use: "ts-loader",
-                }
+                },
             ]
-        }
+        },
     };
 }
